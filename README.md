@@ -24,15 +24,6 @@
   </sub>
 </div>
 
-# :pushpin: Table of Contents
-
-* [Demo Website](#eyes-demo-website)     
-* [Technologies](#computer-technologies)
-* [Features](#rocket-features)
-* [How to Run](#construction_worker-how-to-run)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
 
 <h2 align="left"> 📥 Layout available for download at: </h2>
 <p align="center">
