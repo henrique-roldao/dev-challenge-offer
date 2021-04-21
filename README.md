@@ -36,7 +36,7 @@
 
 <h2 align="left"> 📥 Layout available for download at: </h2>
 <p align="center">
-    <a title="Download .fig Web" href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=160:2761">
+    <a title="Download .fig Web" href="https://www.figma.com/file/6f4MnCcCKPPXpkGhalxiqK/Dev-Challenge-Copy?node-id=0%3A1">
         <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
     </a>
 </p>
