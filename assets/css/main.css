@@ -68,3 +68,37 @@ body {
     font-size: 18px;
     color: #161616;
 }
+
+.product {
+    padding-bottom: 60px;
+}
+
+.container-product {
+    display: flex;
+    width: 80%;
+    margin: 60px auto 0px auto;
+    justify-content: space-between;
+}
+
+.item-product p {
+    font-size: 22;
+    font-weight: 700;
+    margin-top: 20px;
+    color: #161616;
+}
+
+.price-product {
+    margin-top: 10px;
+}
+
+.price-product span {
+    font-size: 18px;
+    font-weight: bold;
+    color: #161616;
+}
+
+.price-product b {
+    font-size: 24px;
+    font-weight: bold;
+    color: #5CA720;
+}
