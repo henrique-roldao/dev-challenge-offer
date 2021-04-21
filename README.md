@@ -2,7 +2,6 @@
    <a href="https://www.linkedin.com/in/henrique-roldao/">
       <img alt="Henrique Roldão" src="https://img.shields.io/badge/-HenriqueRoldão-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/henrique-roldao/dev-challenge-offer4?color=5863d2">
   
   <a href="https://github.com/henrique-roldao/dev-challenge-offer/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henrique-roldao/dev-challenge-offer?color=5863d2">
