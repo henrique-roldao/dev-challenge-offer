@@ -39,6 +39,10 @@ body {
     color: #161616;
 }
 
+.menu img {
+    cursor: pointer;
+}
+
 .menu img:nth-child(1), .menu img:nth-child(2) {
     margin-right: 35px;
 }
@@ -53,7 +57,7 @@ body {
 }
 
 .section-promocao {
-    border-bottom: .2px solid #A5A1A1;
+    border-bottom: .2px solid rgb(165, 161, 161, 0.2) ;
     width: 100%;
 }
 
@@ -82,9 +86,18 @@ body {
 
 .container-product {
     display: flex;
-    width: 80%;
+    max-width: 80%;
+    flex-wrap: wrap;
     margin: 60px auto 0px auto;
     justify-content: space-between;
+}
+
+.item-product {
+    width: 30%;
+}
+
+.item-product img {
+    width: 100%;
 }
 
 .item-product p {
@@ -96,6 +109,7 @@ body {
 
 .price-product {
     margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .price-product span {
@@ -162,6 +176,7 @@ input::placeholder {
     font-weight: bold;
     color: #FFF;
     background: #5CA720;
+    cursor: pointer;
     align-items: center;
 }
 
@@ -170,4 +185,27 @@ input::placeholder {
     background: #A5A1A1;
     width: 100%;
     margin-top: 30px;
+    opacity: .2;
+}
+
+.links-container {
+    width: 80%;
+    padding: 40px 0 0 0;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-links a:first-child{
+    margin-right: 20px;
+}
+
+.payment-links a {
+    margin-left: 20px;
+}
+
+.payment-links {
+    display: flex;
+    align-items: center;
 }
