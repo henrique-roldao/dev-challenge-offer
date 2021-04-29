@@ -7,7 +7,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henrique-roldao/dev-challenge-offer?color=5863d2">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
-  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/henrique-roldao/dev-challenge-offer?color=5863d2" />
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/henrique-roldao/dev-challenge-offer?color=5863d2"/>
   <a href="https://github.com/henrique-roldao/nlw-04/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/henrique-roldao/dev-challenge-offer?color=5863d2&logo=github">
   </a>
